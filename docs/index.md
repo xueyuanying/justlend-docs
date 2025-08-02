@@ -1,1 +1,1 @@
-<!-- <meta http-equiv="refresh" content="0; url=getting_started/overview/" /> -->
+<meta http-equiv="refresh" content="0; url=getting_started/overview/" />
